@@ -1,2 +1,3 @@
-# R-seaux-de-Neurone-Simple
-Implémentation naive Projet réseaux de neuronnes 
+# Projet Universitaire
+Implementation de projet universitaire lié à l'IA et la data 
+
